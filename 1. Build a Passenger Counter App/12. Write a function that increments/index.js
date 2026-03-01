@@ -13,4 +13,4 @@ incrementLaps();
 incrementLaps();
 incrementLaps();
 
-// console.log(lapsCompleted)
+console.log(lapsCompleted);
