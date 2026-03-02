@@ -13,3 +13,9 @@ if (age < 100) {
 } else {
   console.log("Not elegible, you have already gotten one");
 }
+
+// console.log(age);
+// for (let i = 0; i < 5; i++) {
+//   console.log(i);
+// }
+
